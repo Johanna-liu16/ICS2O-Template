@@ -1,4 +1,4 @@
-# ICS2O-UnitX-HTML-JS
+# ICS2O-UnitX
 
 [![GitHub's Super Linter](https://github.com/Johanna-liu16/ICS2O-UnitX/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Johanna-liu16/ICS2O-UnitX/actions)
 
