@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Johanna-liu16/ICS2O-UnitX)](https://repl.it/github/Johanna-liu16/ICS2O-UnitX)
 
-This site can be found at: [https://Johanna-liu16.github.io/ICS2O-UnitX](https://Johanna-liu16.github.io/ICS2O-UnitX)
+This site can be found at: [https://Johanna-liu16.github.io/ICS2O-PWA-Test/](https://Johanna-liu16.github.io/ICS2O-PWA-Test/)
